@@ -1,2 +1,2 @@
-# comparando-numeros
-Atividade prática do módulo Sintaxe e Operadores (JavaScript) no Santander Bootcamp Fullstack Developer
+# Comparando Números
+Minha resolução da atividade prática do módulo Sintaxe e Operadores (JavaScript) no Santander Bootcamp Fullstack Developer
